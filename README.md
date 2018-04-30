@@ -1,4 +1,4 @@
-# CS/COE 1501 Project 4
+# CS/COE 1501 Project 4 --Network Analysis--
 
 ## Goal:
 To gain a better understanding of graphs and graph algorithms through practical implementation.
